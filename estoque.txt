@@ -1,0 +1,6 @@
+NOME                          | RA        | ESTOQUE INICIAL | ESTOQUE FINAL
+lkvdsv                        | 1242342   | 234             | 0
+fdvfdb                        | 12423     | 111             | 110
+fdvd                          | 3254353   | 2234            | 2011
+32rfd                         | 32235325  | 2342            | 2108
+3423                          | 324325325 | 23              | 20

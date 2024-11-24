@@ -162,7 +162,7 @@ void cadastrarProduto()
          printf("       ");
          coordenada(space, 53);
          scanf("%i", &produto[i].qtdVendido);
-      } while (produto[i].qtdVendido > produto[i].qtdInicial);
+      } while (produto[i].qtdVendido > produto[i].qtdInicial || produto[i].qtdVendido <= 0);
 
       produto[i].qtdFinal = produto[i].qtdInicial - produto[i].qtdVendido;
 

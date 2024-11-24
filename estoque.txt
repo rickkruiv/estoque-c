@@ -1,6 +1,6 @@
 NOME                          | RA        | ESTOQUE INICIAL | ESTOQUE FINAL
-maca                          | 240006772 | 120             | 100
-pera                          | 304032523 | 200             | 120
-caqui                         | 243242512 | 180             | 160
-maracuja                      | 234512423 | 90              | 70
-melancia                      | 102423423 | 55              | 31
+maca                          | 10249234  | 12              | 4
+pera                          | 124039245 | 15              | 5
+abacate                       | 124303294 | 6               | 2
+melancia                      | 220312412 | 20              | 1
+maracuja                      | 240006772 | 10              | 0
